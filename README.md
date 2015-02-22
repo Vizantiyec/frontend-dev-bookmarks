@@ -2,16 +2,16 @@
 
 *Looking for something else? Take a look at the [awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).*
 
-+ Guides
-    + [Bento](http://www.bentobox.io): a collection of guides for web development.
-    + [Hack Design](http://hackdesign.org/courses/): An easy to follow design course for people who do amazing things.
-    + [Designer School](http://designer-school.com/): A group of passionate professionals teaching web development
-    + [Web Style Guide - 3<sup>rd</sup> Edition](http://webstyleguide.com/wsg3/index.html) covers all the elements from CSS and typography to HTML and the structure of prose.
-    + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
-    + [Web Development Teaching Materials](http://www.teaching-materials.org/): This site hosts a variety of CC-licensed web development curriculum which was designed to be taught, but it may be useful to students as well.
-    + [Learn HTML5, CSS3, and Responsive WebSite Design in One Go](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
-    + [Codecademy](http://codecademy.com): Learn to code interactively, for free.
-    + [Codeschool](https://www.codeschool.com/) teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
++ Гиды
+    + [Bento](http://www.bentobox.io): коллекция руководств о веб-разработке.
+    + [Hack Design](http://hackdesign.org/courses/): Дизайн курсы для людей , которые создают удивительные вещи.
+    + [Designer School](http://designer-school.com/): Группа заинтересованых професионалов, преподающих веб-разработку
+    + [Web Style Guide - 3<sup>rd</sup> Edition](http://webstyleguide.com/wsg3/index.html) Охватывает все начиная с CSS и типографики и заканчивая HTML и стуктурой
+    + [Лекции которые помогут вам стать лучшим frontend-разработчиком в 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
+    + [Web Development Teaching Materials](http://www.teaching-materials.org/):Сайт включает множество учебных программ о веб-разработке, может быть полезно как студентам так и лекторам.
+    + [Изучите HTML5, CSS3 и отзывчивый дизайн на одном дыхании](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
+    + [Codecademy](http://codecademy.com): Изучайте код в интерактивном режиме бесплатно.
+    + [Codeschool](https://www.codeschool.com/) Множество видео-уроков, задач и скрикастов.
     + [TheExpressiveWeb](http://beta.theexpressiveweb.com/): This site by Adobe is a resource and showcase of some of the newest, and most expressive features being added to the web today.
     + [Treehouse](http://teamtreehouse.com/): Learn HTML, CSS, iPhone apps and more.
     + [General Assembly Dash](https://dash.generalassemb.ly): Learn HTML, CSS, and Javascript through fun projects you do in your browser.
