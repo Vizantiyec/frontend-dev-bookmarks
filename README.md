@@ -8,26 +8,27 @@
     + [Designer School](http://designer-school.com/): Группа заинтересованых професионалов, преподающих веб-разработку
     + [Web Style Guide - 3<sup>rd</sup> Edition](http://webstyleguide.com/wsg3/index.html) Охватывает все начиная с CSS и типографики и заканчивая HTML и стуктурой
     + [Лекции которые помогут вам стать лучшим frontend-разработчиком в 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
-    + [Web Development Teaching Materials](http://www.teaching-materials.org/):Сайт включает множество учебных программ о веб-разработке, может быть полезно как студентам так и лекторам.
+    + [Web Development Teaching Materials](http://www.teaching-materials.org/): Сайт включает множество учебных программ о веб-разработке, может быть полезно как студентам так и лекторам.
     + [Изучите HTML5, CSS3 и отзывчивый дизайн на одном дыхании](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
     + [Codecademy](http://codecademy.com): Изучайте код в интерактивном режиме бесплатно.
     + [Codeschool](https://www.codeschool.com/) Множество видео-уроков, задач и скрикастов.
-    + [TheExpressiveWeb](http://beta.theexpressiveweb.com/): This site by Adobe is a resource and showcase of some of the newest, and most expressive features being added to the web today.
-    + [Treehouse](http://teamtreehouse.com/): Learn HTML, CSS, iPhone apps and more.
+    + [TheExpressiveWeb](http://beta.theexpressiveweb.com/): Этот ресурс от Adobe - коллекция новейших и наиболее выразительных особеностей, добавленых в веб.
+    + [Treehouse](http://teamtreehouse.com/): Изучайте HTML, CSS, Мобильную разработку и более.
     + [General Assembly Dash](https://dash.generalassemb.ly): Learn HTML, CSS, and Javascript through fun projects you do in your browser.
-+ Architecture
-    + [Web Components](http://w3c.github.io/webcomponents/explainer/): the component model for the Web.
-    + [BEM](http://bem.info/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
-        + [Introductory article on tutsplus.com](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)
-        + [Introductory article on Smashing Magazine](http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/)
-        + [Video: How to use BEM! outside of Yandex](http://vimeo.com/38346573)
+    Изучайте HTML, CSS, Javascript делая интерестные проекты прямо в вашем броузере.
++ Архитектура
+    + [Веб-компоненты](http://w3c.github.io/webcomponents/explainer/): компонентная модель в вебе.
+    + [BEM](http://bem.info/): Методология , направлена на скорость при разработке типичных проектов, масштабируемость команд, повторное использование кода.
+        + [Введение на tutsplus.com](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)
+        + [Ознакомительная статья на Smashing Magazine](http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/)
+        + [Видео от Яндекс: Как использовать BEM!](http://vimeo.com/38346573)
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
-        + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://www.slideshare.net/bradfrostweb/atomic-design)
+        + [Видео](http://www.besquare.me/session/atomic-design/) + [Slides](http://www.slideshare.net/bradfrostweb/atomic-design)
         + [Pattern Lab](http://patternlab.io/)
-    + [Polymer Project](http://www.polymer-project.org/): Polymer is a library that uses the latest web technologies to let you create custom HTML elements.
-        + [Video: Web Components: A Tectonic Shift for Web Development](https://developers.google.com/events/io/sessions/318907648) + [Slides](http://www.webcomponentsshift.com/)
-        + [Video: Web Components in Action](https://developers.google.com/events/io/sessions/324149970)
-    + [Flux](http://facebook.github.io/react/docs/flux-overview.html) is the application architecture that Facebook uses for building client-side web applications.
+    + [Polymer Project](http://www.polymer-project.org/): Библиотека, которая позволяет создавать собственные html элементы, использую последние достижения в веб-технологиях.
+        + [Видео: Веб-компоненты: Тектонический сдвиг в веб-разработке](https://developers.google.com/events/io/sessions/318907648) + [Slides](http://www.webcomponentsshift.com/)
+        + [Видео: Веб-компоненты в действии](https://developers.google.com/events/io/sessions/324149970)
+    + [Flux](http://facebook.github.io/react/docs/flux-overview.html) архитектура от Facebook для построения клиентских веб-приложений.
     + [Aura](http://aurajs.com/) is an event-driven architecture for developing scalable applications using reusable widgets (discontinued in favor of [Web Components](http://w3c.github.io/webcomponents/explainer/)).
     + [Hydra](http://tcorral.github.io/Hydra.js/) is an easy-to-use framework that provides you with the necessary tools to create scalable applications using modules and widgets.
     + [Terrific.js](http://terrifically.org/) provides you a Scalable JavaScript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
